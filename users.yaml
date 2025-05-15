@@ -1,0 +1,23 @@
+admins:
+- name: Mukund Krishnan
+  username: mukundk
+- name: Jeyasenthuran
+  username: jey
+
+users:
+- name: Aarav
+  username: aarav01
+- name: Aisha
+  username: aisha01
+
+authors:
+- name: Ananya
+  username: ananya
+- name: Bala
+  username: bala
+mods:
+- name: Praveen
+  username: praveen
+  authors:
+  - ananya
+  - bala
